@@ -1,0 +1,52 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(211, 140, 184);
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+.quemsomos{
+    background-color: aquamarine;
+}
+
+.second-pic{
+    border-radius: 5px;
+}
+
+.descricao{
+    padding-top:10px;
+}
+
+.nome{
+    color:rgb(46, 43, 45);
+}
+
+.carousel{
+    border-radius: 5px;
+}
+
+.margin{
+    padding-bottom: 50px;
+}
+
+.top-pic{
+    padding-left: 30px;
+}
+
+.musica{
+    background-color: rgb(211, 140, 184);
+}
+
+.trench{
+    background-color: rgb(212, 214, 61);
+}
+
+.bg-color{
+    background-color: black;
+    color: white;
+}
